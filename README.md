@@ -2,4 +2,4 @@
 CI workflow
 
 
-https://github.com/Padavan-itbeard/hexlet-my-first-workflow/actions/workflows/say-hello.yaml/badge.svg
+![example workflow](https://github.com/Padavan-itbeard/hexlet-my-first-workflow/actions/workflows/say-hello.yaml/badge.svg)
